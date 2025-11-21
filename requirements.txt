@@ -1,0 +1,9 @@
+cat > requirements.txt <<'EOF'
+networkx==3.2.1
+simpy==4.0.1
+numpy==1.26.4
+matplotlib==3.8.0
+pulp==2.7.0
+ortools==9.8.0
+pandas==2.2.2
+EOF

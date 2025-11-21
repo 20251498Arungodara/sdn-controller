@@ -1,0 +1,25 @@
+# Python venv
+.venv/
+__pycache__/
+*.pyc
+
+# Figures
+figures/
+
+# Logs
+logs/
+
+# Artifacts
+artifact/
+
+# Backup or temp files
+*.bak
+*.tmp
+*.old
+
+# Ryu leftover
+ryu-4.34/
+ryu-4.34.tar.gz
+
+# System files
+.DS_Store

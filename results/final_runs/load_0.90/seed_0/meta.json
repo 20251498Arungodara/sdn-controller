@@ -1,0 +1,11 @@
+{
+  "config": {
+    "episodes": 200,
+    "k_paths": 3,
+    "ilp_interval": 10
+  },
+  "seed": 0,
+  "paper_pdf": "/mnt/data/Trustworthy_and_Congestion_Aware_Multipath_Routing_in_SDN.pdf",
+  "time": "Fri Nov 21 07:47:34 2025",
+  "cwd": "/home/tejaspal/sdn_rl_project"
+}

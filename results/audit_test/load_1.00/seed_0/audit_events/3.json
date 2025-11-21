@@ -1,0 +1,18 @@
+{
+  "event_type": "epoch_commit",
+  "experiment": "audit_test",
+  "seed": 0,
+  "load_factor": 1.0,
+  "epoch": 3,
+  "rl_assignment": {
+    "f1": 0,
+    "f2": 0,
+    "f3": 0
+  },
+  "rl_rms_latency": 4.444444444444445,
+  "agent_hash": "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a",
+  "snapshot_hash": "f62ba37676719efa1a9edf4d4106ff889c6ecfa1034d9e021f79ad99f8a97528",
+  "paper_pdf_path": "/mnt/data/Trustworthy_and_Congestion_Aware_Multipath_Routing_in_SDN__A_Hybrid_Approach_using_Max_Boltzmann_Q_Learning__ILP_Verification__and_Blockchain_Auditing.pdf",
+  "timestamp": "2025-11-21T09:37:49",
+  "merged_hash": "8241a5397243443d0dc8c07102982f473b0e20e9e831c735ac893bfa8d42a43f"
+}
