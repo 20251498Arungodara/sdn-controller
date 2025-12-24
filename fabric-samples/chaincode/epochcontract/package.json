@@ -1,0 +1,13 @@
+{
+  "name": "epochcontract",
+  "version": "1.5.0",
+  "description": "Epoch controller registry chaincode",
+  "main": "index.js",
+  "scripts": {
+    "start": "fabric-chaincode-node start"
+  },
+  "dependencies": {
+    "fabric-contract-api": "^2.5.0",
+    "fabric-shim": "^2.5.0"
+  }
+}
