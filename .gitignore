@@ -1,23 +1,65 @@
-# Python venv
+############################
+# Python
+############################
 .venv/
 __pycache__/
 *.pyc
+*.pyo
 
-# Logs
+############################
+# Node.js
+############################
+node_modules/
+npm-debug.log
+yarn.lock
+
+############################
+# Hyperledger Fabric (CRITICAL)
+############################
+wallet/
+organizations/
+crypto-config/
+*.pem
+*.key
+*.crt
+*.sk
+
+############################
+# Docker
+############################
+*.log
+docker-compose.yaml.bak
+
+############################
+# Mininet
+############################
+*.pcap
+mnexec*
+netconf*
+
+############################
+# Ryu
+############################
+ryu-4.34/
+ryu-4.34.tar.gz
+
+############################
+# Metrics / Artifacts
+############################
 logs/
-
-# Artifacts
 artifact/
+results/
+plots/
 
-# Backup or temp files
+############################
+# Backup / temp
+############################
 *.bak
 *.tmp
 *.old
 
-# Ryu leftover
-ryu-4.34/
-ryu-4.34.tar.gz
-
-# System files
+############################
+# System
+############################
 .DS_Store
-Blockchain/fabric-samples/
+Thumbs.db
